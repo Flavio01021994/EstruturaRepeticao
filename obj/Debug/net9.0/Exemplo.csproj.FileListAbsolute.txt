@@ -12,3 +12,4 @@ C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0
 C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.pdb
 C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.genruntimeconfig.cache
 C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\ref\Exemplo.dll
+C:\Users\FIC\Desktop\FlavioProjetos\EstruturasRepeticao\Exemplo\obj\Debug\net9.0\Exemplo.sourcelink.json
